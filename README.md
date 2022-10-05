@@ -13,38 +13,56 @@ NINTENDO Entertainment System
 
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/01_SuperMarioBros.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/01_SuperMarioBros-screenshot.jpg "arcade")
+
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/02_SuperMarioBros3.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/02_SuperMarioBros3-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/03_TheLegendofZelda.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/03_TheLegendofZelda-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/04_DonkeyKong.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/04_DonkeyKong-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/05_Metroid.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/05_Metroid-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/06_KirbysAdventure.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/06_KirbysAdventure-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/07_SuperMarioBros2.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/07_SuperMarioBros2-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/08_DrMario.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/08_DrMario-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/09_Punch-Out.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/09_Punch-Out-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/10_BalloonFight.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/10_BalloonFight-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/11_DonkeyKongJr.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/11_DonkeyKongJr-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/12_ZeldaII.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/12_ZeldaII-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/13_Excitebike.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/13_Excitebike-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/14_IceClimber.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/14_IceClimber-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/15_KidIcarus.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/15_KidIcarus-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/16_MarioBros.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/16_MarioBros-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/17_StarTropics.jpg "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/17_StarTropics-screenshot.jpg "arcade")
+
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/18_BubbleBobble.png "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/19_FinalFantasy.png "arcade")
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/20_Gradius.png "arcade")
