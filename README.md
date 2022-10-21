@@ -78,3 +78,7 @@ NINTENDO Entertainment System
 ![arcade](https://github.com/txuswashere/NES-Classic-Mini/raw/main/NES-classic/30_DoubleDragon2.png "arcade")
 
 
+
+* https://github.com/txuswashere/NES-Classic-Mini
+* https://github.com/txuswashere/NES
+* https://github.com/txuswashere/Nintendo-NES
